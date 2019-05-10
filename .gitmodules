@@ -1,0 +1,6 @@
+[submodule "flutter-paris"]
+	path = flutter-paris
+	url = https://git.huajiao.com/full-stack/flutter-paris.git
+[submodule "huajiao_ios"]
+	path = huajiao_ios
+	url = https://git.corp.qihoo.net/huajiao_ios/huajiao_ios.git
